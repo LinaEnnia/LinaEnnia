@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LinaEnnia
+- 👋 Hi, I’m @LinaEnnia third-year bio-engineering student
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some new projects
