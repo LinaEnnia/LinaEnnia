@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinaEnnia third-year bio-engineering student
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and bioinformatics aspects
 - 💞️ I’m looking to collaborate on some new projects
 - 📫 How to reach me: 
 - email: ennialina2017@gmail.com ,
