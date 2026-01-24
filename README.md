@@ -1,4 +1,4 @@
-# Hi, I'm Lina, Msc , ing. 👋
+# Hi, I'm Lina👋
 
 Bioinformatician finishing an MSc in Experimental Health Sciences – Bioinformatics at INRS (Laval), with a background in research, engineering, and biological data analysis.
 
