@@ -1,11 +1,19 @@
-# Hi, I'm Lina👋
+# Hi, I'm Lina 👋
 
-Bioinformatician finishing an MSc in Experimental Health Sciences – Bioinformatics at INRS (Laval), with a background in research, engineering, and biological data analysis.
+I'm a bioinformatician with an M.Sc. in Experimental Health Sciences (Bioinformatics) from INRS, passionate about turning biological data into clear, reproducible, and useful insights.
 
-I enjoy working at the intersection of biology, data, and computation, and I’m building my path through hands-on projects, continuous learning, and applied bioinformatics work.
+My background spans genomics, microbiome research, virology, and next-generation sequencing analysis. I enjoy building practical workflows, analyzing complex datasets, and contributing to projects at the intersection of biology, computation, and health.
 
-I'm passionate about building practical, reproducible solutions that make science more accessible and useful.
+## Core strengths
+- Bioinformatics and NGS data analysis
+- Microbiome, genomics, and pathogen-related projects
+- Reproducible workflows with R, Python, Bash, Git, Nextflow, and Docker
+- Linux, HPC, quality control, and scientific data analysis
 
+## On this GitHub
+You'll find projects that reflect my work in bioinformatics, reproducible research, and applied computational biology.
+
+## Let's connect
 📍 Greater Montréal  
-🌍 Open to onsite, hybrid, and remote opportunities in Québec  
-🤝 Always open to conversations, collaborations, and learning
+🌍 Open to onsite, hybrid, remote, and collaborative opportunities  
+🤝 Always happy to connect with researchers, teams, and organizations working on meaningful life science projects
